@@ -1,0 +1,49 @@
+[33mcommit 97393e96e48a2831b1773d2b56c358f77cd1de01[m[33m ([m[1;36mHEAD -> [m[1;32mdev[m[33m, [m[1;32mmaster[m[33m)[m
+Merge: fe3dc01 b160ed9
+Author: Lu_qing195 <930685283@qq.com>
+Date:   Sun May 26 11:27:57 2024 +0800
+
+    Merge branch 'dev-1'
+
+[33mcommit b160ed95ff88b743ac9f8f7d8672a52e941760ec[m
+Author: Lu_qing195 <930685283@qq.com>
+Date:   Sun May 26 11:27:26 2024 +0800
+
+    dele test01
+
+[33mcommit fe3dc015afe8e99961d804ead345e0615e166bc2[m
+Merge: 621c8db f52d4e0
+Author: Lu_qing195 <930685283@qq.com>
+Date:   Sun May 26 10:36:45 2024 +0800
+
+    Merge branch 'dev-1'
+
+[33mcommit f52d4e0110ab8a169b3bab0998ec5927e56be382[m
+Author: Lu_qing195 <930685283@qq.com>
+Date:   Sun May 26 10:34:06 2024 +0800
+
+    touch test02
+
+[33mcommit 621c8dbe7861d63d75886e929fd7209cc1288bf9[m
+Author: Lu_qing195 <930685283@qq.com>
+Date:   Sun May 26 10:24:37 2024 +0800
+
+    delete test01
+
+[33mcommit c737951962bf99cab5514a9e6d3d5b6b5bc88c1c[m
+Author: Lu_qing195 <930685283@qq.com>
+Date:   Sun May 26 10:00:09 2024 +0800
+
+    排除git管理的文件
+
+[33mcommit f92549e17d8f6e64712ca2d3731299d69547ddac[m
+Author: Lu_qing195 <930685283@qq.com>
+Date:   Sun May 26 09:47:54 2024 +0800
+
+    update test01
+
+[33mcommit 3a512983a09320535992519cb9ce8ea69d517c4c[m
+Author: Lu_qing195 <930685283@qq.com>
+Date:   Sun May 26 08:43:00 2024 +0800
+
+    add test01
